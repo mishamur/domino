@@ -1,0 +1,6 @@
+﻿  DiceOfSet.cpp
+c:\users\misha_000\desktop\domino\project1\project1\diceofset.h(4): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\misha_000\desktop\domino\project1\project1\diceofset.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\misha_000\desktop\domino\project1\project1\diceofset.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\misha_000\desktop\domino\project1\project1\diceofset.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\misha_000\Desktop\Domino\Project1\Debug\Project1.exe
